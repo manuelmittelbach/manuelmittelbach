@@ -6,10 +6,10 @@ As a former teacher, I’ve come to believe that self-driven motivation, hands-o
 
 ## Selected Projects
 
-### minishell
-A collaborative project to build a simplified Unix shell in C, focused on command execution, pipes, redirections, built-ins, and shell behavior.
+- **minishell** — collaborative Unix shell project in C, focused on command execution, pipes, redirections, built-ins, and shell behavior
+- **push_swap** — sorting project focused on algorithms, optimization, and efficient stack-based operations
+- **philosophers** — concurrency project based on the Dining Philosophers problem, focused on synchronization and threading
 
-### philosophers
-An implementation of the Dining Philosophers problem, focused on concurrency, synchronization, and threading.
+## Looking for
 
-- Currently looking for an internship, trainee position, or other entry point into a professional tech environment.
+Internship, trainee position, or another entry point into a professional tech environment.
