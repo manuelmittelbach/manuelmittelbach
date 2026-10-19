@@ -10,13 +10,13 @@ I've come to believe that self-driven motivation, hands-on learning, and collabo
 
 **BoulderSesh** ([iOS](https://apps.apple.com/de/app/bouldersesh/id6798312634) · [Android](https://play.google.com/store/apps/details?id=de.manumittelbach.bouldersesh)) — A native app that lets you find people around your own level to climb with.
 
-## Foundations at 42 Berlin
+<!-- ## Foundations at 42 Berlin
 
 Project-based systems programming in C and C++:
 
 - **minishell**: a simplified Unix shell with command execution, pipes, redirections and built-ins.
 - **cub3d**: a first-person maze rendered from scratch with raycasting.
-- **philosophers**: the Dining Philosophers concurrency problem, solved with threads and careful timing.
+- **philosophers**: the Dining Philosophers concurrency problem, solved with threads and careful timing. -->
 
 ## Looking for
 
