@@ -22,4 +22,3 @@ Project-based systems programming in C and C++:
 
 A trainee position, internship, or another entry point into a professional tech environment.
 
-🌐 [Portfolio](https://manuelmittelbach.dev) · 📍 Berlin
