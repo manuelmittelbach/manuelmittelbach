@@ -4,11 +4,11 @@ I'm a software developer based in Berlin, but writing code is only part of what 
 
 I've come to believe that self-driven motivation, hands-on learning, and collaboration are some of the most effective ways to develop a skill. That is exactly why I love the concept of 42, the peer-to-peer programming school where I'm training now.
 
-## Products I've shipped
+<!-- ## Products I've shipped
 
 **[Inside Bars](https://insidebars.co)** — A web app that gathers Berlin's bar events, otherwise scattered across Instagram stories and word of mouth, into one browsable, filterable place.
 
-**BoulderSesh** ([iOS](https://apps.apple.com/de/app/bouldersesh/id6798312634) · [Android](https://play.google.com/store/apps/details?id=de.manumittelbach.bouldersesh)) — A native app that lets you find people around your own level to climb with.
+**BoulderSesh** ([iOS](https://apps.apple.com/de/app/bouldersesh/id6798312634) · [Android](https://play.google.com/store/apps/details?id=de.manumittelbach.bouldersesh)) — A native app that lets you find people around your own level to climb with. -->
 
 <!-- ## Foundations at 42 Berlin
 
