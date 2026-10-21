@@ -20,5 +20,5 @@ Project-based systems programming in C and C++:
 
 ## Looking for
 
-A trainee position, internship, or another entry point into a professional tech environment.
+internships and junior roles in product or software, where I can build real products with a team.
 
